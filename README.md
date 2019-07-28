@@ -1,4 +1,4 @@
-# MusicML
+# Neural Music Classification & Generation
 Exploring some of the many ways one can use music with machine learning, from classification to music generation.
 
 ## Music Classification:
